@@ -1,6 +1,6 @@
 # digitoelfika
 
-![A digitöl](digitaloel.png)
+![A digitöl](digitaloel_25.png)
 
 Everything about the digitölfika.
 
