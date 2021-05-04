@@ -28,6 +28,13 @@ Everything about the digitölfika.
 
 Yes.
 
+### I cannot be there at Digitölfika
+
+Life can indeed be unfair like that.
+
+Maybe [this beer simulator](https://github.com/richelbilderbeek/beer_sim)
+can compensate a bit.
+
 ## Image source
 
  * [beer.jpg](https://commons.wikimedia.org/wiki/File:NCI_Visuals_Food_Beer.jpg)
