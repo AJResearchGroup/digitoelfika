@@ -22,6 +22,12 @@ Everything about the digitölfika.
 
  * Thursday April 29th 2021 16:00: first digitölfika on Zoom
 
+## FAQ
+
+### Am I welcome as a student/PhD/postdoc/professor?
+
+Yes.
+
 ## Image source
 
  * [beer.jpg](https://commons.wikimedia.org/wiki/File:NCI_Visuals_Food_Beer.jpg)
