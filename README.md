@@ -4,8 +4,8 @@
 
 Everything about the digitölfika.
 
- * URL: https://zoom.us/j/9552479665?pwd=SEU2ZDR0U1dPeXlYSENSNWFOZlc5UT09
- * Pasword: beer
+ * URL: https://uu-se.zoom.us/j/7093465705
+ * Passcode: beer (the Dutch for a bear)
  * When: every odd week
  * Time: Fridays 17:00
 
