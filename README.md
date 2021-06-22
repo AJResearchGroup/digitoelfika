@@ -5,7 +5,7 @@
 Everything about the digitölfika.
 
  * URL: https://uu-se.zoom.us/j/7093465705
- * Passcode: beer (the Dutch for a bear)
+ * Passcode: beer (the Dutch word for a bear)
  * When: every odd week
  * Time: Fridays 17:00
 
