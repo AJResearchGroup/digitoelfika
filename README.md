@@ -11,15 +11,19 @@ Everything about the digitölfika.
 
 ## Future meetings
  
- * Friday May 14th 2021 17:00
- * Friday May 28th 2021 17:00
- * Friday June 11th 2021 17:00
- * Friday June 25th 2021 17:00
- * Friday July 9th 2021 17:00
- * Friday July 23rd 2021 17:00
+ * Friday September 17th 2021 17:00
 
 ## Past meetings
 
+ * Friday September 3rd 2021 17:00
+ * Friday August 20th 2021 17:00
+ * Friday August 6th 2021 17:00
+ * Friday July 23rd 2021 17:00
+ * Friday July 9th 2021 17:00
+ * Friday June 25th 2021 17:00
+ * Friday June 11th 2021 17:00
+ * Friday May 28th 2021 17:00
+ * Friday May 14th 2021 17:00
  * Thursday April 29th 2021 16:00: first digitölfika on Zoom
 
 ## FAQ
