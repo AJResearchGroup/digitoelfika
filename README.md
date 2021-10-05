@@ -9,10 +9,11 @@ Everything about the ölfika.
 
 ## Future meetings
 
- * Friday October 1st 2021 16:00 at Navet at BMC. First time in real life!
+ * ?Friday October 15th 2021 16:00 at Navet at BMC :tropical_drink:
 
 ## Past meetings
 
+ * Friday October 1st 2021 16:00 at Navet at BMC :tropical_drink:
  * Friday September 17th 2021 17:00 :computer:
  * Friday September 3rd 2021 17:00 :computer:
  * Friday August 20th 2021 17:00 :computer:
