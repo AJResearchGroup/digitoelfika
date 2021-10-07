@@ -5,11 +5,11 @@
 Everything about the ölfika.
 
  * When: every odd week
- * Time: Fridays 17:00 [note that this may change due to a new vote]
+ * Time: Fridays 16:00
 
 ## Future meetings
 
- * ?Friday October 15th 2021 16:00 at Navet at BMC :tropical_drink:
+ * Friday October 15th 2021 16:00 at Navet at BMC :tropical_drink:
 
 ## Past meetings
 
